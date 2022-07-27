@@ -1,4 +1,5 @@
-[
+{
+   "voyages": [
    {
       "id":1,
       "title":"Spitsbergen Highlights: Expedition in Brief",
@@ -83,3 +84,4 @@
       }
    }
 ]
+}
